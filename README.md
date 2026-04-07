@@ -1,8 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xb_1Q-N5)
+
 Galaxian Remake - Project Documentation
 This project is a tribute to the classic arcade shooter Galaxian. It features complex formation logic, spline-based enemy movement, and a modular architecture using ScriptableObjects.
 The player controls a starship called the "Galaxip", the objective being to clear each round of aliens. The enemies appear in formation towards the top of the screen, with two escort ships, labeled the "Galaxian Flagship".
 Enemies will make a divebomb towards the bottom of the screen while shooting projectiles in an attempt to hit the player. The Galaxip can only fire a single shot at a time, and the player must wait for it to either hit an enemy or the top of the screen before being able to fire another, due to limitations of the hardware.
+
+<img width="1011" height="1011" alt="image" src="https://github.com/user-attachments/assets/1cd7da2e-be4f-48e7-8ab3-589ed15150ac" />
+<img width="1500" height="935" alt="image" src="https://github.com/user-attachments/assets/0f606d6c-fac0-4115-be49-5f68d164ed28" />
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Core Game Mechanics:
 The game is built on several specialized systems that handle the unique arcade feel:
@@ -57,4 +61,6 @@ Technical Highlights
 •	Lifecycle Management: Uses OnEnable and OnDisable for clean registration of enemies and stars in static lists.
 •	Efficient UI: Uses TextMeshPro with sprite injection for an authentic arcade font feel.
 
-
+## 📚 Academic Context
+Made as part of the "Introduction to Game Development" course  
+at the HUJI x Bezalel Game Design Program.
