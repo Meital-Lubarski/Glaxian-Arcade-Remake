@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: 510f0e8e23cabdd4b896cfb11774a457
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4466511514174190176
+    second: Arcade - Galaxian - Miscellaneous - General Sprites (1)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfabc18f8f2ef84f88d4d725f29ad9c
+      internalID: -212612288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e8961acf6e4c4f8e5e542b031ab15
+      internalID: 996181798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85333434ada6345be02f4ea69346bc
+      internalID: -448685250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64babb8392f19a84aab442dab11b22cb
+      internalID: 594306950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a21236dfb182549949e841c7f6b7b9
+      internalID: 730657966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1a19699961aa4fb0e35e0826114b9
+      internalID: 332054216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f19135ab1634e4aab3715d90031948
+      internalID: -1860991092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310e068be2282ed438b8eac01c7c834f
+      internalID: 1281690127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107c13ad54d64547a929575c4ab39f3
+      internalID: 426983835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea0ee30ce4b674cabb4431d85964b3
+      internalID: -21412440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deddb0ab4bb5b104c8d6b49099aaa21a
+      internalID: -1842695672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0ee1d502e6eb4d8a224936fa6a9f8
+      internalID: 1637128802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea20897034ec29448e549433f265cac
+      internalID: -2082201757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f2015447e88145a8a5b423ba56e92
+      internalID: 983376470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40124fa253cba2e4ab655ef7527480fa
+      internalID: -1588463506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc757a426ea6f074096bfe5cdef425e0
+      internalID: -1240816596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d5d271a9640747ae8702dd64efd64
+      internalID: -977040756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f645260e6dc8484499b23f2ddef0783
+      internalID: -144798228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409f23bae8993948b3e4735b2605fc8
+      internalID: -1074462855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6b822ae1e28d4490a1e35e3e8a1c6
+      internalID: -132853629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd0b015742748488d8c5639015ce4e
+      internalID: 118407879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3b8c2ce6d989498d6548f5bae378c
+      internalID: -165559746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef5659a677b15418c7ebae19caef2c
+      internalID: 1181714899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66c444655debc4a9f453474dfbbd95
+      internalID: 1756696531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c8ff02d1482b44aa7a7f51352d6f45
+      internalID: 621177070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aeeceb03a7148479ef3e9d451ce040
+      internalID: 1447467120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971311be1e560c4ab6d7c4f7a64d357
+      internalID: -437602551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29725e00ceffa294f9860ebdcacfae31
+      internalID: 981210673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2444b6f77a6c41971f04e3fc227cc
+      internalID: 1923227595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6b06c8eb04c1449593d8b798c834e
+      internalID: -1522326437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fedfc08a372574408434b12ab36cc92
+      internalID: 1955054905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0672be444caf8e749aa034831c9410fc
+      internalID: -2117258728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933867177552874da050750bcb7b842
+      internalID: -1097593351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541d02c470f7f04796deb4bc82d2a35
+      internalID: 538796207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b108842127630c84894ca444c8edeec4
+      internalID: 285719953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4065a739073b4ba5c1b6858ca7d66
+      internalID: 406687241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb79d538e49e26469877413ee63c77b
+      internalID: -1365627080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb847bda83b9cd46b9439669045eb43
+      internalID: -1617093017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e387538150224cc408dd5495d304cd2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_0: -212612288
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_1: 996181798
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_10: -1842695672
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_11: 1637128802
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_12: -2082201757
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_13: 983376470
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_14: -1588463506
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_15: -1240816596
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_16: -977040756
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_17: -144798228
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_18: -1074462855
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_19: -132853629
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_2: -448685250
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_20: 118407879
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_21: -165559746
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_22: 1181714899
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_23: 1756696531
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_24: 621177070
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_25: 1447467120
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_26: -437602551
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_27: 981210673
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_28: 1923227595
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_29: -1522326437
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_3: 594306950
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_30: 1955054905
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_31: -2117258728
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_32: -1097593351
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_33: 538796207
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_34: 285719953
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_35: 406687241
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_36: -1365627080
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_37: -1617093017
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_4: 730657966
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_5: 332054216
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_6: -1860991092
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_7: 1281690127
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_8: 426983835
+      Arcade - Galaxian - Miscellaneous - General Sprites (1) 1_9: -21412440
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_0: 4466511514174190176
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_1: -521061223
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_10: -219452027
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_11: 602510003
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_12: 2144554128
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_13: -1327845852
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_14: -1005442702
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_15: -197151337
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_16: -1516647899
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_17: -971829931
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_18: -952350391
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_19: 561582774
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_2: -602138806
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_20: 602795159
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_21: 1455384607
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_22: -1373627010
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_23: -470296485
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_24: -648851156
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_25: -473835707
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_26: 840183355
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_27: 2017743731
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_28: 2145096255
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_29: 336811875
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_3: -585867176
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_30: -572798572
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_31: -1894365080
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_32: 865246346
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_33: 1865261598
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_34: 535718087
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_35: -609120438
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_36: -1465411267
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_4: -111519661
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_5: -1848285798
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_6: 1524630270
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_7: -570048787
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_8: -1187073874
+      Arcade - Galaxian - Miscellaneous - General Sprites (1)_9: -1022571819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

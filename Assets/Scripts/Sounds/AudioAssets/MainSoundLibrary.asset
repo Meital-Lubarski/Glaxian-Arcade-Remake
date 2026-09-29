@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc7dfffb8a72594ebf588b9123cea03, type: 3}
+  m_Name: MainSoundLibrary
+  m_EditorClassIdentifier: 
+  playerShoot: {fileID: 11400000, guid: 4750e39982f525f46be9f0fe64ee8bf8, type: 2}
+  playerDeath: {fileID: 11400000, guid: bedd904c438e56e40849bfef6d141d55, type: 2}
+  enemyShoot: {fileID: 11400000, guid: a24f9e4586413fa4493e9097c74155de, type: 2}
+  enemyExplosion: {fileID: 11400000, guid: c4c29da0b75c3e9489ea15dba33c50fa, type: 2}
+  hitBoss: {fileID: 11400000, guid: 1996ee573e01be44da94552c05aea344, type: 2}
+  divingSound: {fileID: 11400000, guid: 7d136cf71183fd240bf1d51d24ceefc8, type: 2}
+  startGame: {fileID: 11400000, guid: 7baf756a866249946bde8bda42659f7b, type: 2}
+  fallingStar: {fileID: 11400000, guid: 1e5d3982d4dcd52449e8afdf0448b264, type: 2}
+  starExplosion: {fileID: 11400000, guid: 7f8928c836b814b4db8df570ae1e6eda, type: 2}
+  backgroundMusic: {fileID: 11400000, guid: 04ee4befac6648346927b6dc901c6ef6, type: 2}
